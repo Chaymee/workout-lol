@@ -38,9 +38,9 @@ const ReleaseNotes = () => {
       >
         <Text fw={700}>Announcement About Videos</Text>
         <Text mb='sm'>
-          As our agreement with MuscleWiki has come to an end, we have 
-          removed/replaced the videos for our exercise. Some exercises
-          will not have videos for now - we are working on replacing them.
+          As our agreement with MuscleWiki has come to an end, we have
+          removed/replaced the videos for our exercise. Some exercises will will
+          not have videos for now - we are working on replacing them.
         </Text>
 
         {/* <Text mb="sm">
